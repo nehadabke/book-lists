@@ -2,7 +2,7 @@
   "name": "react.dev",
   "version": "0.0.0",
   "main": "/src/index.js",
-  "homepage": "https://nehadabke.github.io/booklists",
+  "homepage": "https://nehadabke.github.io/book-lists",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
