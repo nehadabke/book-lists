@@ -1,0 +1,84 @@
+.bookCard {
+    padding: 0;
+    border-style: none;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.bookCardImageContainer {
+    padding: 0;
+    border-style: none;
+    border-radius: 10px;
+    background-color: #3F88C5;
+}
+
+.bookCard:hover, .bookCardSelected {
+    .bookNumberButton {
+        background-color: #3F88C5;
+    }
+    .bookNumber {
+        color: white;
+    }
+    .bookCardImage {
+        opacity: .5;
+    }
+}
+
+
+.bookCardImage {
+    border-radius: 10px;
+    display: block;
+    width: 90px;
+}
+
+.container {
+    position: relative;
+    display: inline-block;
+}
+
+.image {
+    display: block;
+    width: 100%; /* Set the width of the image */
+    height: auto;
+    border-radius: 10px;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #3F88C5; /* Blue overlay */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 10px;
+}
+
+.container:hover .overlay {
+    opacity: .5; /* Show overlay on hover */
+}
+
+.container:hover .bookNumberButton {
+    background-color: #3F88C5;
+    color: white;
+}
+
+.selectedOverlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #3F88C5; /* Blue overlay */
+    opacity: .5;
+    transition: opacity 0.3s ease;
+    border-radius: 10px;
+}
+
+.circle {
+    position: absolute;
+    top: 2px; /* Adjust as needed */
+    left: 2px; /* Adjust as needed */
+    z-index: 1; /* Ensure it stays on top */
+}
