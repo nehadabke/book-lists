@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/book-lists/static/css/main.2dde4c04.css",
+    "main.css": "/book-lists/static/css/main.6b71e7ea.css",
     "main.js": "/book-lists/static/js/main.56a2bc32.js",
     "static/media/JejuMyeongjo.ttf": "/book-lists/static/media/JejuMyeongjo.cb8c6e935f4f0049b717.ttf",
     "index.html": "/book-lists/index.html",
-    "main.2dde4c04.css.map": "/book-lists/static/css/main.2dde4c04.css.map",
+    "main.6b71e7ea.css.map": "/book-lists/static/css/main.6b71e7ea.css.map",
     "main.56a2bc32.js.map": "/book-lists/static/js/main.56a2bc32.js.map"
   },
   "entrypoints": [
-    "static/css/main.2dde4c04.css",
+    "static/css/main.6b71e7ea.css",
     "static/js/main.56a2bc32.js"
   ]
 }
