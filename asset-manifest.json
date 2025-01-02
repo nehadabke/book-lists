@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/booklists/static/css/main.810cbcda.css",
+    "main.js": "/booklists/static/js/main.56a2bc32.js",
+    "static/media/JejuMyeongjo.ttf": "/booklists/static/media/JejuMyeongjo.cb8c6e935f4f0049b717.ttf",
+    "index.html": "/booklists/index.html",
+    "main.810cbcda.css.map": "/booklists/static/css/main.810cbcda.css.map",
+    "main.56a2bc32.js.map": "/booklists/static/js/main.56a2bc32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.810cbcda.css",
+    "static/js/main.56a2bc32.js"
+  ]
+}
