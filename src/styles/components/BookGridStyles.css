@@ -6,7 +6,7 @@
     margin-right: 20px;
     margin-left: 20px;
     margin-top: 50px;
-    align-items: baseline;
+    align-items: start;
 }
 
 @media (max-width: 768px) {

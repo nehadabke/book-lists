@@ -34,6 +34,7 @@
 .container {
     position: relative;
     display: inline-block;
+    align-self: end;
 }
 
 .image {
